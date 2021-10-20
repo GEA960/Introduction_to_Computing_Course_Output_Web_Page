@@ -2,4 +2,4 @@
 
 ![](/forReadMe.jpg)
 
-A project for IT 111-introduction to Computing Course on my First yeear of College
+A project for IT 111-introduction to Computing Course on my First year of College
